@@ -1,0 +1,359 @@
+{
+	"USD": {
+		"symbol_native": "$"
+	},
+	"CAD": {
+		"symbol_native": "$"
+	},
+	"EUR": {
+		"symbol_native": "€"
+	},
+	"AED": {
+		"symbol_native": "د.إ.‏"
+	},
+	"AFN": {
+		"symbol_native": "؋"
+	},
+	"ALL": {
+		"symbol_native": "Lek"
+	},
+	"AMD": {
+		"symbol_native": "դր."
+	},
+	"ARS": {
+		"symbol_native": "$"
+	},
+	"AUD": {
+		"symbol_native": "$"
+	},
+	"AZN": {
+		"symbol_native": "ман."
+	},
+	"BAM": {
+		"symbol_native": "KM"
+	},
+	"BDT": {
+		"symbol_native": "৳"
+	},
+	"BGN": {
+		"symbol_native": "лв."
+	},
+	"BHD": {
+		"symbol_native": "د.ب.‏"
+	},
+	"BIF": {
+		"symbol_native": "FBu"
+	},
+	"BND": {
+		"symbol_native": "$"
+	},
+	"BOB": {
+		"symbol_native": "Bs"
+	},
+	"BRL": {
+		"symbol_native": "R$"
+	},
+	"BWP": {
+		"symbol_native": "P"
+	},
+	"BYN": {
+		"symbol_native": "руб."
+	},
+	"BZD": {
+		"symbol_native": "$"
+	},
+	"CDF": {
+		"symbol_native": "FrCD"
+	},
+	"CHF": {
+		"symbol_native": "CHF"
+	},
+	"CLP": {
+		"symbol_native": "$"
+	},
+	"CNY": {
+		"symbol_native": "CN¥"
+	},
+	"COP": {
+		"symbol_native": "$"
+	},
+	"CRC": {
+		"symbol_native": "₡"
+	},
+	"CVE": {
+		"symbol_native": "CV$"
+	},
+	"CZK": {
+		"symbol_native": "Kč"
+	},
+	"DJF": {
+		"symbol_native": "Fdj"
+	},
+	"DKK": {
+		"symbol_native": "kr"
+	},
+	"DOP": {
+		"symbol_native": "RD$"
+	},
+	"DZD": {
+		"symbol_native": "د.ج.‏"
+	},
+	"EEK": {
+		"symbol_native": "kr"
+	},
+	"EGP": {
+		"symbol_native": "ج.م.‏"
+	},
+	"ERN": {
+		"symbol_native": "Nfk"
+	},
+	"ETB": {
+		"symbol_native": "Br"
+	},
+	"GBP": {
+		"symbol_native": "£"
+	},
+	"GEL": {
+		"symbol_native": "GEL"
+	},
+	"GHS": {
+		"symbol_native": "GH₵"
+	},
+	"GNF": {
+		"symbol_native": "FG"
+	},
+	"GTQ": {
+		"symbol_native": "Q"
+	},
+	"HKD": {
+		"symbol_native": "$"
+	},
+	"HNL": {
+		"symbol_native": "L"
+	},
+	"HRK": {
+		"symbol_native": "kn"
+	},
+	"HUF": {
+		"symbol_native": "Ft"
+	},
+	"IDR": {
+		"symbol_native": "Rp"
+	},
+	"ILS": {
+		"symbol_native": "₪"
+	},
+	"INR": {
+		"symbol_native": "টকা"
+	},
+	"IQD": {
+		"symbol_native": "د.ع.‏"
+	},
+	"IRR": {
+		"symbol_native": "﷼"
+	},
+	"ISK": {
+		"symbol_native": "kr"
+	},
+	"JMD": {
+		"symbol_native": "$"
+	},
+	"JOD": {
+		"symbol_native": "د.أ.‏"
+	},
+	"JPY": {
+		"symbol_native": "￥"
+	},
+	"KES": {
+		"symbol_native": "Ksh"
+	},
+	"KHR": {
+		"symbol_native": "៛"
+	},
+	"KMF": {
+		"symbol_native": "FC"
+	},
+	"KRW": {
+		"symbol_native": "₩"
+	},
+	"KWD": {
+		"symbol_native": "د.ك.‏"
+	},
+	"KZT": {
+		"symbol_native": "тңг."
+	},
+	"LBP": {
+		"symbol_native": "ل.ل.‏"
+	},
+	"LKR": {
+		"symbol_native": "SL Re"
+	},
+	"LTL": {
+		"symbol_native": "Lt"
+	},
+	"LVL": {
+		"symbol_native": "Ls"
+	},
+	"LYD": {
+		"symbol_native": "د.ل.‏"
+	},
+	"MAD": {
+		"symbol_native": "د.م.‏"
+	},
+	"MDL": {
+		"symbol_native": "MDL"
+	},
+	"MGA": {
+		"symbol_native": "MGA"
+	},
+	"MKD": {
+		"symbol_native": "MKD"
+	},
+	"MMK": {
+		"symbol_native": "K"
+	},
+	"MOP": {
+		"symbol_native": "MOP$"
+	},
+	"MUR": {
+		"symbol_native": "MURs"
+	},
+	"MXN": {
+		"symbol_native": "$"
+	},
+	"MYR": {
+		"symbol_native": "RM"
+	},
+	"MZN": {
+		"symbol_native": "MTn"
+	},
+	"NAD": {
+		"symbol_native": "N$"
+	},
+	"NGN": {
+		"symbol_native": "₦"
+	},
+	"NIO": {
+		"symbol_native": "C$"
+	},
+	"NOK": {
+		"symbol_native": "kr"
+	},
+	"NPR": {
+		"symbol_native": "नेरू"
+	},
+	"NZD": {
+		"symbol_native": "$"
+	},
+	"OMR": {
+		"symbol_native": "ر.ع.‏"
+	},
+	"PAB": {
+		"symbol_native": "B/."
+	},
+	"PEN": {
+		"symbol_native": "S/."
+	},
+	"PHP": {
+		"symbol_native": "₱"
+	},
+	"PKR": {
+		"symbol_native": "₨"
+	},
+	"PLN": {
+		"symbol_native": "zł"
+	},
+	"PYG": {
+		"symbol_native": "₲"
+	},
+	"QAR": {
+		"symbol_native": "ر.ق.‏"
+	},
+	"RON": {
+		"symbol_native": "RON"
+	},
+	"RSD": {
+		"symbol_native": "дин."
+	},
+	"RUB": {
+		"symbol_native": "₽."
+	},
+	"RWF": {
+		"symbol_native": "FR"
+	},
+	"SAR": {
+		"symbol_native": "ر.س.‏"
+	},
+	"SDG": {
+		"symbol_native": "SDG"
+	},
+	"SEK": {
+		"symbol_native": "kr"
+	},
+	"SGD": {
+		"symbol_native": "$"
+	},
+	"SOS": {
+		"symbol_native": "Ssh"
+	},
+	"SYP": {
+		"symbol_native": "ل.س.‏"
+	},
+	"THB": {
+		"symbol_native": "฿"
+	},
+	"TND": {
+		"symbol_native": "د.ت.‏"
+	},
+	"TOP": {
+		"symbol_native": "T$"
+	},
+	"TRY": {
+		"symbol_native": "TL"
+	},
+	"TTD": {
+		"symbol_native": "$"
+	},
+	"TWD": {
+		"symbol_native": "NT$"
+	},
+	"TZS": {
+		"symbol_native": "TSh"
+	},
+	"UAH": {
+		"symbol_native": "₴"
+	},
+	"UGX": {
+		"symbol_native": "USh"
+	},
+	"UYU": {
+		"symbol_native": "$"
+	},
+	"UZS": {
+		"symbol_native": "UZS"
+	},
+	"VEF": {
+		"symbol_native": "Bs.F."
+	},
+	"VND": {
+		"symbol_native": "₫"
+	},
+	"XAF": {
+		"symbol_native": "FCFA"
+	},
+	"XOF": {
+		"symbol_native": "CFA"
+	},
+	"YER": {
+		"symbol_native": "ر.ي.‏"
+	},
+	"ZAR": {
+		"symbol_native": "R"
+	},
+	"ZMK": {
+		"symbol_native": "ZK"
+	},
+	"ZWL": {
+		"symbol_native": "ZWL$"
+	}
+}

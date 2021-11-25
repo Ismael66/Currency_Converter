@@ -1,0 +1,52 @@
+body {
+    background: blueviolet;
+    font: normal 15pt Arial;
+}
+header {
+    color: white;
+    text-align: center;
+}
+h1{
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+section {
+    display: flex;
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px red;
+    flex-direction: column;
+    align-items: center;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.container select{
+    width: 251px;
+}
+p{
+    position: static;
+    margin-top: 15px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#trocaValorBtn{
+    margin-top: 10px;
+    align-items: center;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    font-size: 25px;
+}
+.containerNumeros{
+    width: 250px;
+}
+footer {
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
